@@ -27,7 +27,7 @@ Link : https://cenacrharsh.github.io/Project-8-Analog-Clock/
 Link : 
 
 10) Project 10 - Snake Xenzia
-Link : 
+Link : https://cenacrharsh.github.io/Project-10-Snake-Xenzia/
 
 11) Project 11 - Flipkart Clone (HTML,CSS)
 Link : 
