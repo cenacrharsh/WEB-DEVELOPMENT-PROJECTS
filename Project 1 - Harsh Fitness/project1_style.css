@@ -1,0 +1,98 @@
+/* css reset */
+body {
+  font-family: "Balsamiq Sans", cursive;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  background: url("img.jpg");
+  opacity: 1;
+}
+.left {
+  /* border: 2px solid red; */
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+}
+.left img {
+  width: 150px;
+  filter: invert(100%);
+}
+.left div {
+  text-align: center;
+  line-height: 19px;
+  font-size: 26px;
+}
+
+.mid {
+  /* border: 2px solid green; */
+  display: block;
+  width: 50%;
+  margin: 33px auto;
+}
+.right {
+  position: absolute;
+  top: 25px;
+  right: 15px;
+  /* border: 2px solid yellow; */
+  display: inline-block;
+}
+.navbar {
+  display: inline-block;
+}
+.navbar li {
+  display: inline-block;
+}
+.navbar li a {
+  color: white;
+  text-decoration: none;
+  padding: 24px 13px;
+  font-size: 22px;
+}
+.navbar li a:hover,
+.navbar li a.active {
+  text-decoration: underline;
+  color: rgb(160, 157, 157);
+}
+.btn {
+  margin: 0px 6px;
+  color: white;
+  background-color: black;
+  padding: 4px 12px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: "Balsamiq Sans", cursive;
+}
+.btn:hover {
+  background-color: rgb(63, 61, 61);
+}
+.container {
+  border: 2px solid white;
+  margin: 225px 50px;
+  padding: 35px;
+  width: 40%;
+  border-radius: 28px;
+}
+.form-group input {
+  font-family: "Balsamiq Sans", cursive;
+  text-align: center;
+  display: block;
+  width: 400px;
+  padding: 1px;
+  border: 2px solid black;
+  margin: 9px auto;
+  font-size: 25px;
+  border-radius: 8px;
+}
+.container h1 {
+  text-align: center;
+}
+.container button {
+  display: block;
+  margin: 15px auto;
+  width: 405px;
+  font-size: 25px;
+  
+}
