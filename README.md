@@ -24,7 +24,7 @@ Link : https://mom-and-pops-bakery.bss.design/
 Link : https://cenacrharsh.github.io/Project-8-Analog-Clock/
 
 9) Peoject 9 - Calculator Project
-Link : 
+Link : https://cenacrharsh.github.io/Project-9-Calculator/
 
 10) Project 10 - Snake Xenzia
 Link : https://cenacrharsh.github.io/Project-10-Snake-Xenzia/
